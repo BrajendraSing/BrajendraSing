@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BrajendraSing
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Programming
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Software Development related projects
 - 📫 If you intrested, you can contact me using email - brajendra.psit@gmail.com
 
 <!---
