@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Brajendra Singh
 - Pursuing Master in Computer Application from Vellore Institute of Technology Vellore TamilNadu.
-- Completed Bachelor from Pranveer Singh Institute of Technology Bhauti kanpur Uttar Pradesh.
+- Completed Bachelor in Computer Application from Pranveer Singh Institute of Technology Bhauti kanpur Uttar Pradesh.
 -
 - Skills :
 - HTML, CSS, BOOTSTRAP, JAVASCRIPT, REACTJS
