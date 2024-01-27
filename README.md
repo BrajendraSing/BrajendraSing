@@ -10,4 +10,5 @@
 - PROBLEM SOLVING, INTERPERSONAL SKILLS, TEAM WORK
 -
 - Looking for an Internship/Placement in an reputed organization
+- Resume -> https://github.com/BrajendraSing/BrajendraSing/blob/main/RESUME.pdf
 - Connect -> www.linkedin.com/in/brajendra-singh-0a0728128
