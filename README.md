@@ -3,7 +3,7 @@
 - Completed Bachelor in Computer Application from Pranveer Singh Institute of Technology Bhauti kanpur Uttar Pradesh.
 -
 - Skills :
-- HTML, CSS, BOOTSTRAP, JAVASCRIPT, REACTJS
+- HTML, CSS, BOOTSTRAP, JAVASCRIPT, REACTJS, NODEJS
 - PYTHON,DJANGO,C,C++,JAVA
 - SQL
 - GIT & GITHUB
