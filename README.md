@@ -1,11 +1,11 @@
 - 👋 Hi, I’m Brajendra Singh
-- Pursuing Master in Computer Application from Vellore Institute of Technology Vellore TamilNadu.
+- Recently Completed Master in Computer Application from Vellore Institute of Technology Vellore TamilNadu.
 - Completed Bachelor in Computer Application from Pranveer Singh Institute of Technology Bhauti kanpur Uttar Pradesh.
 
 - Skills :
 - HTML, CSS, BOOTSTRAP, JAVASCRIPT, REACTJS, NODEJS
-- PYTHON,DJANGO,C,C++,JAVA
-- SQL, MONGO
+- PYTHON,DJANGO,C,C++,JAVA, SPRING, HIBERNATE, SPRING BOOT
+- SQL, MONGODB
 - GIT & GITHUB
 - PROBLEM SOLVING, INTERPERSONAL SKILLS, TEAM WORK
 
